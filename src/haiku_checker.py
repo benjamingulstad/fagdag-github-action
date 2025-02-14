@@ -22,6 +22,7 @@ def is_haiku(commit_message: str) -> bool:
     
     return haiku
 
+#kommentar
 def count_syllables_in_line(line: str) -> int:
     words = line.split(" ")
     count = 0

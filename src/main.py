@@ -32,6 +32,7 @@ if __name__ == '__main__':
 
         commit_and_push(repo, branch, file_path)
 
+
     #TODO 
     # 1) Get the latest commit message
     # 2) Check if the commit message follows the haiku format
